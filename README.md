@@ -1,4 +1,4 @@
-# Hi there, I'm Fendy - aka [Fendydwialghifari] 👋
+# Hi there, I'm Fendy👋
 ## About me:
 - 🌱 I’m currently learning Arduino and Internet of Things (IoT)
 - 👯 I’m looking to collaborate as Programmer Arduino
